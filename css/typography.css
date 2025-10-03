@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Squadron';
+    src: url('/fonts/Squadron-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Squadron';
+    src: url('/fonts/Squadron-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Squadron';
+    src: url('/fonts/Squadron-RegularItalic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Squadron';
+    src: url('/fonts/Squadron-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+}
+
+.text-light {
+    font-family: squadron;
+    font-size: 14px;
+    color: #868686;
+    text-align: left;
+    font-weight: regular;
+}
+
+h3 {
+    font-family: squadron;
+    font-weight: bold;
+    font-size: 20px;
+    color: #0D0D0D;
+    text-align: left;
+}
+
+.text {
+    text-decoration: none;
+    font-family: squadron;
+    font-size: 14px;
+    color: #575757;
+    text-align: left;
+    font-weight: regular;
+    line-height: 22px;
+}
+
+nav {
+    font-family: squadron;
+    font-size: 16px;
+    color: #0D0D0D;
+    text-align: left;
+    font-weight: bold;
+    line-height: 21px;
+    text-decoration: none;
+}
+
+.menu-button {
+    font-family: squadron;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+    line-height: 21px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footer-menu {
+    font-family: squadron;
+    font-size: 16px;
+    color: #868686;
+    text-align: left;
+    font-weight: regular;
+}
+
+h4 {
+    font-family: squadron;
+    font-size: 16px;
+    color: #0D0D0D;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: squadron;
+    font-size: 30px;
+    color: #0D0D0D;
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.link {
+    font-family: squadron;
+    font-size: 14px;
+    color: #0D0D0D;
+    text-align: left;
+    font-weight: regular;
+}
+
+h1 {
+    font-family: squadron;
+    font-size: 40px;
+    color: #0D0D0D;
+    text-align: left;
+    font-weight: bold;
+    line-height: 46px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.text-large {
+    font-family: squadron;
+    font-size: 16px;
+    color: #585858;
+    text-align: left;
+    font-weight: regular;
+    margin-top: 24px;
+}
+
+.footer-menu-text {
+    font-family: squadron;
+    font-weight: regular;
+    font-size: 14px;
+    color: pink;
+}
+
+/* .footer-bottom {
+    font-family: squadron;
+    font-size: 14px;
+    color: #575757;
+    text-align: left;
+    font-weight: regular;
+    line-height: 22px;
+} */
