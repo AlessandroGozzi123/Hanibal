@@ -1,4 +1,4 @@
-Hanibal E-shop (cvičný projekt) – jednoduchá kopie e-shopu Hanibal.cz
+Hanibal E-shop –  cvičný projekt, jednoduchá kopie e-shopu Hanibal.cz
 
 Design je inspirován originálním webem Hanibal.cz od firmy wpj.cz
 
