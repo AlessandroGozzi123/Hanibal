@@ -1,6 +1,6 @@
-Hanibal E-shop –  cvičný projekt, jednoduchá kopie e-shopu Hanibal.cz
+Hanibal E-shop –  cvičný projekt, jednoduchá kopie e-shopu Hanibal.cz<br>
 
-Design je inspirován originálním webem Hanibal.cz od firmy wpj.cz
+Design je inspirován originálním webem Hanibal.cz od firmy wpj.cz<br>
 
 <img width="600" height="913" alt="hanibal" src="https://github.com/user-attachments/assets/525ffc82-35f5-497a-ac77-c74011fa7774" />
 <img width="600" height="903" alt="hanibal2" src="https://github.com/user-attachments/assets/0f7afcab-b5c0-43b6-b05f-f07f5b3bdc59" />
